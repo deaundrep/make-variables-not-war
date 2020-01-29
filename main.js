@@ -1,9 +1,48 @@
 /******************
  * YOUR CODE HERE *
  ******************/
+const myFirstName = 'Jack'
 
 
- 
+const myLastName = 'prescott'
+
+
+
+const myBestFriend = 'buddy'
+
+
+
+const mySentence = "deaundre rescott bestfriend is buddy"
+
+
+
+const myFavoriteNum = 11
+
+
+
+const myMentalAge = 30 
+
+
+
+const myHeight = 6
+
+
+
+const myFavoriteYear = 1988
+
+
+const mySum = 3 + 1918 + 24 + 1
+
+
+const myProduct = 232 * 43 / 2 + 4
+
+
+const myHeightAndAge = myMentalAge + myHeight
+
+
+
+
+
 
 
 /*********************************************************************************************************************
